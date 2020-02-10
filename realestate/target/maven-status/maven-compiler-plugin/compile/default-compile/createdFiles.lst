@@ -1,0 +1,3 @@
+com\vz\uhh\exception\ErrorDetails.class
+com\vz\uhh\exception\GlobalExceptionHandler.class
+com\vz\uhh\exception\ResourceNotFoundException.class
